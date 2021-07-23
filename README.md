@@ -1,2 +1,4 @@
-# go_tutorial
-Following a structured Golang tutorial
+# Go tutorial
+## Following a structured Golang tutorial
+* ### https://tour.golang.org/
+
